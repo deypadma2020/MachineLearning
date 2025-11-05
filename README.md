@@ -93,12 +93,3 @@ Each notebook includes:
 
 `machine-learning` `deep-learning` `supervised-learning` `unsupervised-learning`
 `data-science` `classification` `regression` `clustering` `notebooks` `model-training`
-
----
-
-## 🪪 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
-
-Would you like me to add a **visual banner** (like a “Machine Learning Repository” header image or a shields.io badge set for Python, Jupyter, and ML libraries) at the top to make it look more professional on GitHub?
